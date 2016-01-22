@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[News from Brazil]]></title>
         <description><![CDATA[News from Brazil]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/news-from-brazil/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 15:09:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 15:13:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/news-from-brazil/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a71ae415-4f33-4e79-bde0-556ff6068dee.JPG">]]></description>
+            <link>https://thegrid.ai/news-from-brazil/29150ee4-9dfd-4a1d-95c4-2d6d18013ba4/index.html</link>
+            <guid isPermaLink="false">29150ee4-9dfd-4a1d-95c4-2d6d18013ba4</guid>
+            <pubDate>Fri, 22 Jan 2016 15:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e37e1ab-6cd0-4558-bdae-888696d666e9.JPG">]]></description>
-            <link>undefined51389ddb-b70e-4c59-ba77-2c0b5d624bc6/index.html</link>
+            <link>https://thegrid.ai/news-from-brazil/51389ddb-b70e-4c59-ba77-2c0b5d624bc6/index.html</link>
             <guid isPermaLink="false">51389ddb-b70e-4c59-ba77-2c0b5d624bc6</guid>
             <pubDate>Fri, 22 Jan 2016 15:09:03 GMT</pubDate>
         </item>
