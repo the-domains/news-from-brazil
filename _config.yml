@@ -1,0 +1,28 @@
+name: News from Brazil
+favicon: null
+layout_spectrum: 0.3685753084719181
+typography_spectrum: 0.7955781286582351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6996025370899588
+  lightness: 0.016639916691929102
+  saturation: 0.11307734064757824
+  rhythmicContrast: 0.0893956352956593
+purpose: []
